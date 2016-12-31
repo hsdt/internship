@@ -1,0 +1,4 @@
+1. Giải thích kết quả như hình kèm theo, lession01.PNG
+2. Viết lại chương trình đọc file sử dụng hàm đọc đồng bộ fs.readFileSync
+3. Tìm hiểu về kiến trúc client-server, khái niệm và mô hình tương tác
+4. Viết một file lib.js ghi 1 dòng log ra màn hình console dòng thông điệp (call me baby), trong file app.js require sử dụng file lib.js vừa cài đặt
