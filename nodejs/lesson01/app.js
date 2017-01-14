@@ -22,12 +22,12 @@ var abcstr = fs.readFileSync("abc.txt");
 console.log("2. " + content);
 console.log("3. " + abcstr);
 
-/** Kết quả ???? */
+/** Kết quả: Man 1 ???? */
 // Hello world ....
 // abc content
 // 2. abc content
 
-/*** thay đổi */
+/*** thay đổi: Man 2 */
 // Hello world ....
 // abc content
 // 2. 1. abc content
