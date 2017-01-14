@@ -5,7 +5,7 @@ Kết thúc bài học, buổi học, học viên cần lắm được khối l�
 
 ## Phần 1: Module và lập trình hướng đối tượng
 
-* Các kỹ thuật khai báo và sử dụng module
+* Các kỹ thuật khai báo và sử dụng module, làm việc với chương trình `npm`
 * Thiết kế được 1 module, hiểu được cách hoạt động của `require`, các biến của module: `require`, `module`, `module.exports`, `__dirname`, `__filename`.
 * Lập trình hướng đối tượng với ES6: `class`, `extends`, `super`, `object literal`
 * Hàm chỉ đọc `readonly`
